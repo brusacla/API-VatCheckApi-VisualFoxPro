@@ -1,0 +1,36 @@
+# Ignora i file temporanei di Visual FoxPro
+*.bak
+*.cdx
+*.fpt
+*.frx
+*.fxp
+*.lbx
+*.log
+*.lck
+*.mem
+*.obj
+*.pjt
+*.ppo
+*.sct
+*.vcx
+
+# Ignora i file di configurazione del progetto
+config.fpw
+
+# Ignora i file binari
+*.exe
+*.dll
+
+# Ignora i file di database
+*.dbc
+*.dbf
+*.dct
+*.dcx
+*.dmd
+*.idx
+*.mdx
+
+# Ignora le directory dei pacchetti
+/Packages/*
+/.vscode/*
+```
